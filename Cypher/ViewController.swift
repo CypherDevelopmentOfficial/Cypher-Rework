@@ -70,5 +70,5 @@ class ApplicationViewController: UITableViewController {
 
 
 public func RepoRefresh() {
-    NSTask("sudo apt-get update")
+   // NSTask("sudo apt-get update")
 }
